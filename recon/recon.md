@@ -1,3 +1,6 @@
+nmap -p- 10.129.94.107
+nmap -p22,80,12227 10.129.94.107
+
 ![image](https://github.com/user-attachments/assets/73f3fd1d-e564-40cc-8c4d-3adeacd81db2)
 
 ![image](https://github.com/user-attachments/assets/434416e3-f5cb-4216-97a8-c953d6ea5407)
