@@ -1,6 +1,6 @@
-''' bash
+``` bash
 nmap -p- 10.129.94.107
-'''
+```
 ![image](https://github.com/user-attachments/assets/014461c9-360a-4014-886e-0f53523b3b19)
 
 
