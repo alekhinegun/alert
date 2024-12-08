@@ -5,6 +5,7 @@ nmap -p- 10.129.94.107
 nmap -p22,80,12227 10.129.94.107 -A
 ![image](https://github.com/user-attachments/assets/d6af62a4-9e36-4f36-92cf-437d510f665e)
 
+feroxbuster --url alert.htb
 
 ![image](https://github.com/user-attachments/assets/73f3fd1d-e564-40cc-8c4d-3adeacd81db2)
 
